@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewWithAsync</string>
+    <string name="txt_generar">Generar</string>
+</resources>
